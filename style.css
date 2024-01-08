@@ -27,7 +27,7 @@ main{
     flex-direction: column;
     background-color: hsl(217, 19%, 35%);
     box-shadow: 0 10px 20px rgba(0,0,0,0.3);
-    border-radius: 15px;
+    border-radius: 14px;
     padding: 30px 40px;
 }
 
@@ -35,7 +35,7 @@ main{
     display: flex;
     align-items: center;
     color:  hsl(0, 0%, 81%);
-    margin-bottom: 10px;
+    margin-bottom: 11px;
 }
 
 .card-head img{
@@ -48,7 +48,7 @@ main{
 
 .name{
     font-weight: 700;
-    font-size: 15px;
+    font-size: 16px;
 }
 
 .title{
