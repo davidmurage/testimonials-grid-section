@@ -48,7 +48,7 @@ main{
 
 .name{
     font-weight: 700;
-    font-size: 16px;
+    font-size: 15px;
 }
 
 .title{
@@ -58,7 +58,7 @@ main{
 .card-heading{
     color: #fff;
     margin-bottom: 10px;
-    font-size: 20px;
+    font-size: 21px;
 }
 
 .card-detail{
